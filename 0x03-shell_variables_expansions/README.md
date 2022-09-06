@@ -15,3 +15,4 @@
 15. A script that converts a number from base 10 to base 16.The number in base 10 is stored in the environment variable DECIMAL.The script should display the number in base 16, followed by a new line.
 16. A script that encodes and decodes text using the rot13 encryption. Assume ASCII.
 17. A script that prints every other line from the input, starting with the first line.
+18. A shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.WATER is in base water.STIR is in base stir.The result should be in base bestchol.
