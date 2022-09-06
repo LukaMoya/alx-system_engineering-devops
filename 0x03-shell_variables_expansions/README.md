@@ -4,3 +4,4 @@
 4. A script that counts the number of directories in the PATH.
 5. A script that lists environment variables.
 6. A script that lists all local variables and environment variables, and functions.
+7. A script that creates a new global variable. Name: BEST Value: School.
