@@ -5,3 +5,4 @@
 5. A script that lists environment variables.
 6. A script that lists all local variables and environment variables, and functions.
 7. A script that creates a new global variable. Name: BEST Value: School.
+8. A script that creates a new global variable.Name: BEST,Value: School.
